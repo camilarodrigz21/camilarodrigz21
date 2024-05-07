@@ -1,6 +1,9 @@
 ### Hi, Friend 👋
-My name is Camila, and I am a student at UNTREF University 👩‍💼
-I am passionate about learning to program 🥰, working as a team with my colleagues, and being able to enter the world of programming as a professional. ⭐ 
+![imagengit](https://github.com/camilarodrigz21/camilarodrigz21/assets/166768243/a9c9ab9e-00af-43fe-880b-f58dc68e0d6b)
+
+My name is Camila, and I am a student at UNTREF University
+  I am passionate about learning to program 🥰, working as a team with my colleagues, and being able to enter the world of programming as a professional. ⭐ 
+  
 
 
 
