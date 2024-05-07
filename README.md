@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Friend 👋
+My name is Camila, and I am a student at UNTREF University 👩‍💼
+I am passionate about learning to program 🥰, working as a team with my colleagues, and being able to enter the world of programming as a professional. ⭐ 
+
+
+
+
+
 
 <!--
 **camilarodrigz21/camilarodrigz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
