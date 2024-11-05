@@ -1,4 +1,4 @@
-### Hi, Friend 👋
+<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ![imagengit](https://github.com/camilarodrigz21/camilarodrigz21/assets/166768243/a9c9ab9e-00af-43fe-880b-f58dc68e0d6b)
 
 My name is Camila, and I am a student at UNTREF University
